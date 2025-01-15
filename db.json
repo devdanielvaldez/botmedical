@@ -1,0 +1,296 @@
+[
+  {
+    "ref": "05a35a48-a433-42eb-b8c4-64d261d00d76",
+    "keyword": "647d9f1fd39448b39b2541603bb5384e",
+    "answer": "Hola",
+    "options": {},
+    "from": "17815101547",
+    "refSerialize": "c22e4066d61d81721def9b25d8a397e8"
+  },
+  {
+    "ref": "ans_c149b34f-3af2-41a9-9a9c-5a21a2ef6355",
+    "keyword": "key_7a211388-3d4a-486c-a367-62322086b3c6",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "bbb7dffc9d3a41fd062f188a3d3538e5",
+    "from": "17815101547"
+  },
+  {
+    "ref": "a7dfb099-6125-4759-8d86-9e677df849a1",
+    "keyword": null,
+    "answer": "¡Hola! Bienvenido al consultorio de la Doctora Jennifer. ¿En qué puedo ayudarte hoy?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "17815101547",
+    "refSerialize": "507d6dd87f297388f2ddbd131390b21c"
+  },
+  {
+    "ref": "07b29b04-f8c7-4a3a-930e-e6bcc8a50542",
+    "keyword": "ans_c149b34f-3af2-41a9-9a9c-5a21a2ef6355",
+    "answer": "__end_flow__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "17815101547",
+    "refSerialize": "a07e48655d1eb1adf63c1b74c6ee668e"
+  },
+  {
+    "ref": "eb912ca6-55bd-4426-bdf1-29aec810dd5c",
+    "keyword": "a07e48655d1eb1adf63c1b74c6ee668e",
+    "answer": "Cuales son los servicios",
+    "options": {},
+    "from": "17815101547",
+    "refSerialize": "622e8503a67e73e3971ae083a8734dbc"
+  },
+  {
+    "ref": "ans_c149b34f-3af2-41a9-9a9c-5a21a2ef6355",
+    "keyword": "key_7a211388-3d4a-486c-a367-62322086b3c6",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "bbb7dffc9d3a41fd062f188a3d3538e5",
+    "from": "17815101547"
+  },
+  {
+    "ref": "d545e7eb-57ac-4323-b999-968985b3d040",
+    "keyword": null,
+    "answer": "En mi consultorio, ofrezco servicios de medicina general, atención primaria, consultas médicas, seguimiento de enfermedades crónicas, orientación en hábitos de vida saludables, entre otros. ¿Hay algo en particular por lo que estés interesado en consultar?",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "17815101547",
+    "refSerialize": "c364772df155ad18cc3405dc388cc045"
+  },
+  {
+    "ref": "b262a1a3-6e0d-4cd3-afc9-1db57f1a0daf",
+    "keyword": "ans_c149b34f-3af2-41a9-9a9c-5a21a2ef6355",
+    "answer": "__end_flow__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "17815101547",
+    "refSerialize": "a07e48655d1eb1adf63c1b74c6ee668e"
+  },
+  {
+    "ref": "6034ff00-71e6-4287-83c3-d152bfa39818",
+    "keyword": "a07e48655d1eb1adf63c1b74c6ee668e",
+    "answer": "Cómo puedo agendar una cita",
+    "options": {},
+    "from": "17815101547",
+    "refSerialize": "969f7e804da55b68eeba64cadafbd160"
+  },
+  {
+    "ref": "ans_c149b34f-3af2-41a9-9a9c-5a21a2ef6355",
+    "keyword": "key_7a211388-3d4a-486c-a367-62322086b3c6",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "bbb7dffc9d3a41fd062f188a3d3538e5",
+    "from": "17815101547"
+  },
+  {
+    "ref": "3b738540-f857-4ec7-8073-171e473a9c19",
+    "keyword": null,
+    "answer": "¡Claro! Para agendar una cita con la Doctora Jennifer, te recomiendo visitar nuestro portal de reservación de citas en línea. Puedes acceder a él a través de este enlace: http://localhost:3000/appointments/public/create. Allí podrás seleccionar la fecha y hora que más te convenga y completar tus datos para confirmar la cita. Si necesitas alguna ayuda adicional, estaré encantado de asistirte. ¡Gracias por confiar en nosotros!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "17815101547",
+    "refSerialize": "51d4f17c6d6c7595068202ac7aa58774"
+  },
+  {
+    "ref": "1444fa41-90a4-4217-ad98-cef97c036f35",
+    "keyword": "ans_c149b34f-3af2-41a9-9a9c-5a21a2ef6355",
+    "answer": "__end_flow__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "17815101547",
+    "refSerialize": "a07e48655d1eb1adf63c1b74c6ee668e"
+  },
+  {
+    "ref": "02c957d1-0322-4d71-a3cf-54f059cb0306",
+    "keyword": "a07e48655d1eb1adf63c1b74c6ee668e",
+    "answer": "Mira yo soy Noelia Rivera, quiero saber si tengo una cita",
+    "options": {},
+    "from": "17815101547",
+    "refSerialize": "8883943a77502f42d4963569088a3850"
+  },
+  {
+    "ref": "ans_c149b34f-3af2-41a9-9a9c-5a21a2ef6355",
+    "keyword": "key_7a211388-3d4a-486c-a367-62322086b3c6",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "bbb7dffc9d3a41fd062f188a3d3538e5",
+    "from": "17815101547"
+  },
+  {
+    "ref": "fe3a09e5-bf2d-49cc-ad48-45f300deff78",
+    "keyword": null,
+    "answer": "Hola Noelia Rivera, según la información que tenemos registrada, parece que tenías una cita programada para el domingo 19 de enero de 2025 a las 12:00 PM por un dolor de estómago. Sin embargo, la cita aparece como cancelada en nuestro sistema. Si deseas reprogramarla o tienes alguna otra consulta, por favor házmelo saber y con gusto te ayudaré. ¡Estamos aquí para asistirte en lo que necesites!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "17815101547",
+    "refSerialize": "bc35f56876f49a7e86fe67f7dfc65213"
+  },
+  {
+    "ref": "f74480a0-8076-4415-bfac-b58ef1e3e00b",
+    "keyword": "ans_c149b34f-3af2-41a9-9a9c-5a21a2ef6355",
+    "answer": "__end_flow__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "17815101547",
+    "refSerialize": "a07e48655d1eb1adf63c1b74c6ee668e"
+  },
+  {
+    "ref": "077c9fdc-1063-4618-993b-47a93fe40e09",
+    "keyword": "a07e48655d1eb1adf63c1b74c6ee668e",
+    "answer": "Tengo una nueva cita ?",
+    "options": {},
+    "from": "17815101547",
+    "refSerialize": "ef099955dd3fe1fccfde16196d85ffd4"
+  },
+  {
+    "ref": "ans_c149b34f-3af2-41a9-9a9c-5a21a2ef6355",
+    "keyword": "key_7a211388-3d4a-486c-a367-62322086b3c6",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "bbb7dffc9d3a41fd062f188a3d3538e5",
+    "from": "17815101547"
+  },
+  {
+    "ref": "c315ef0c-49ca-4a82-99ae-7a43bf560c89",
+    "keyword": null,
+    "answer": "¡Hola Noelia! Según nuestros registros, actualmente tienes una cita programada para el domingo 26 de enero de 2025 a las 12:00 PM por un dolor de estómago. La cita está marcada como pendiente en nuestro sistema. Si necesitas más información o deseas reconfirmarla, por favor házmelo saber. Estamos aquí para ayudarte en lo que necesites. ¡Gracias por tu confianza!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "17815101547",
+    "refSerialize": "d08b91e5d05b30b76724ebfbd2fc81d3"
+  },
+  {
+    "ref": "438ab712-13a1-48d7-8f5e-df35883ce509",
+    "keyword": "ans_c149b34f-3af2-41a9-9a9c-5a21a2ef6355",
+    "answer": "__end_flow__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "17815101547",
+    "refSerialize": "a07e48655d1eb1adf63c1b74c6ee668e"
+  },
+  {
+    "ref": "8cf46471-e0d8-4134-861b-b7995d7a3539",
+    "keyword": "a07e48655d1eb1adf63c1b74c6ee668e",
+    "answer": "Cual es el costo de una consulta?",
+    "options": {},
+    "from": "17815101547",
+    "refSerialize": "c2feb46bced12876ac90cdaa42359150"
+  },
+  {
+    "ref": "ans_c149b34f-3af2-41a9-9a9c-5a21a2ef6355",
+    "keyword": "key_7a211388-3d4a-486c-a367-62322086b3c6",
+    "answer": "__call_action__",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "bbb7dffc9d3a41fd062f188a3d3538e5",
+    "from": "17815101547"
+  },
+  {
+    "ref": "900a83ff-63cb-41ee-9c23-bbd6c0ad60f4",
+    "keyword": null,
+    "answer": "El costo de una consulta con la Doctora Jennifer en mi consultorio es de 1,500 pesos dominicanos para asegurados y 3,000 pesos dominicanos para pacientes privados (no asegurados). Si deseas agendar una consulta o necesitas más información, no dudes en decírmelo. ¡Estoy aquí para ayudarte!",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "17815101547",
+    "refSerialize": "18c638d430aaf98f24bdff923a7036bc"
+  },
+  {
+    "ref": "b71853b9-7589-4226-8a3b-e9e3d5aa76ee",
+    "keyword": "ans_c149b34f-3af2-41a9-9a9c-5a21a2ef6355",
+    "answer": "__end_flow__",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "delay": 0
+    },
+    "from": "17815101547",
+    "refSerialize": "a07e48655d1eb1adf63c1b74c6ee668e"
+  }
+]
