@@ -17,7 +17,7 @@ const PORT = process.env.PORT ?? 3009;
 const StartFlow = addKeyword<Provider, Database>('').addAction(async (ctx, { flowDynamic, endFlow, provider }) => {
     await typing(ctx, provider);
     const response = await axios
-    .post('http://localhost:3030/api/chat/init', {
+    .post('https://api-jennifer-wkeor.ondigitalocean.app/api/chat/init', {
         question: ctx.body,
         phoneNumber: ctx.from
     });
