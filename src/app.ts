@@ -12,7 +12,7 @@ const typing = async (ctx: any, provider: any) => {
     }
 };
 
-const PORT = process.env.PORT ?? 3008;
+const PORT = process.env.PORT ?? 3009;
 
 const StartFlow = addKeyword<Provider, Database>('').addAction(async (ctx, { flowDynamic, endFlow, provider }) => {
     await typing(ctx, provider);
